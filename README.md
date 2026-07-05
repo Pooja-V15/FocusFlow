@@ -105,58 +105,132 @@ AI Productivity Engine
 
 # 🚀 Getting Started
 
+## Clone the Repository
+
 ```bash
 git clone https://github.com/Pooja-V15/FocusFlow.git
 cd FocusFlow
+```
+
+## Install Dependencies
+
+```bash
 npm install
+```
+
+## Run the Development Server
+
+```bash
 npm run dev
+```
 
-# 🔄 Workflow
+---
 
-Register → Login → Dashboard → Create Tasks → Plan Schedule → Focus Session → Analytics → Earn XP
+# 🔄 User Workflow
+
+```text
+Register
+    ↓
+Login
+    ↓
+Dashboard
+    ↓
+Create Tasks
+    ↓
+Plan Your Schedule
+    ↓
+Start Focus Session
+    ↓
+Track Analytics
+    ↓
+Earn XP & Achievements
+```
+
+---
 
 # 📊 Project Statistics
-Metric	Value
-Project Type	Full Stack Web App
-Platform	Web
-Frontend	HTML, CSS, JavaScript
-Backend	Node.js + Express
-Database	MongoDB
+
+| Metric | Value |
+|---------|-------|
+| **Project Type** | Full Stack Web Application |
+| **Platform** | Web |
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap 5 |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Authentication** | JWT |
+| **Deployment** | Vercel & Render |
+
+---
+
 # 🎯 Target Audience
-Students
-Professionals
-Freelancers
-Developers
-Content Creators
+
+- 🎓 Students
+- 💼 Professionals
+- 👨‍💻 Developers
+- 🎨 Content Creators
+- 💻 Freelancers
+- 🏢 Remote Workers
+
+---
+
 # 🔮 Future Enhancements
-AI Chat Assistant
-Google Calendar Sync
-Voice Commands
-Mobile App
-Team Collaboration
-Offline Support
+
+- 🤖 AI Chat Assistant
+- 📅 Google Calendar Integration
+- 🎙️ Voice Commands
+- 📱 Mobile Application
+- 👥 Team Collaboration
+- ☁️ Cloud Synchronization
+- 📊 Advanced Productivity Reports
+- 🌐 Multi-language Support
+- 🖥️ Desktop Application
+- ⌚ Wearable Device Integration
+
+---
+
 # 👨‍💻 Developer
 
-Pooja V  
+**Pooja V**
 
-Full Stack Developer
+*Full Stack Developer*
+
+---
 
 # 🔗 Connect
-GitHub: https://github.com/Pooja-V15
-LinkedIn: https://www.linkedin.com/in/pooja-v-32711a304
+
+| Platform | Link |
+|----------|------|
+| **GitHub** | https://github.com/Pooja-V15 |
+| **LinkedIn** | https://www.linkedin.com/in/pooja-v-32711a304 |
+
+---
+
 # 🤝 Contributing
 
-Contributions are welcome! Fork the repository, create a feature branch, commit your changes, and open a pull request.
+Contributions are welcome!
+
+If you'd like to contribute:
+
+1. Fork the repository
+2. Create a new feature branch
+3. Commit your changes
+4. Push your branch
+5. Open a Pull Request
+
+---
 
 # 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
+
+---
 
 <div align="center">
-# ⭐ If you like this project, consider giving it a star!
 
-Built with ❤️ by Pooja V
+## ⭐ If you like this project, consider giving it a Star!
 
-Focus Better. Study Smarter.
+### Built with ❤️ by **Pooja V**
 
-</div> ```
+### **Focus Better. Study Smarter.**
+
+</div>
