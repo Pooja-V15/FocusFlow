@@ -1,0 +1,10 @@
+.achievement {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px;
+  border-radius: 16px;
+  background: rgba(255,255,255,.46);
+  border: 1px solid var(--line);
+}
+.achievement i { color: var(--accent); }

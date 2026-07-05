@@ -1,0 +1,27 @@
+.quote-banner {
+  background: linear-gradient(135deg, rgba(91,95,239,.92), rgba(126,139,255,.86));
+  color: #fff;
+  overflow: hidden;
+  position: relative;
+}
+.quote-banner::after {
+  content: "";
+  position: absolute;
+  inset: auto -60px -120px auto;
+  width: 260px;
+  height: 260px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.16);
+}
+.score-orb {
+  display: grid;
+  place-items: center;
+  width: 128px;
+  aspect-ratio: 1;
+  margin-left: auto;
+  border-radius: 50%;
+  background: conic-gradient(#ffd166 0 82%, rgba(255,255,255,.24) 82%);
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 900;
+}

@@ -1,0 +1,7 @@
+@media (max-width: 560px) {
+  .btn { width: 100%; }
+  .metric { align-items: flex-start; }
+  .dashboard-grid { gap: 14px; }
+  .panel { padding: 18px; }
+  .timer-ring { width: min(310px, 86vw); }
+}

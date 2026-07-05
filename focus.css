@@ -1,0 +1,11 @@
+.sound-tile {
+  display: grid;
+  place-items: center;
+  gap: 8px;
+  min-height: 116px;
+  border-radius: 18px;
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,.48);
+  cursor: pointer;
+}
+.sound-tile.active { outline: 2px solid rgba(91,95,239,.4); background: rgba(91,95,239,.1); }
